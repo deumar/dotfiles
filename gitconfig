@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = deus.marlon@googlemail.com
+	name = Marlon Deus
